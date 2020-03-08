@@ -1,0 +1,25 @@
+Object:
+    Size of object varies wrt size of it's variables.
+    Constructor creates the memory for object.
+self:
+    is a pointer to it's own object.
+Methods:
+    Instance (keyword: self, decorator: ) - works with instance
+    class (keyword: cls, decorator: @classmethod) - works with class variables
+    static (keyword: , decorator: @staticmethod) -
+instance types:
+    Accessros/getters - only access/fetch
+    Mutators/setters - modify/update
+
+inner class:
+inheritance:
+    Method Resolution Order(MRO), Constructor in Inheritance
+Polymorphism:
+    Loose coupling, Interface, Dependancy Injection
+
+    Types:
+        Duck Typing, Operator overloading, method overloading, method overriding
+
+    Duck Typing: 1:20
+        method behaves based on the type of object passed.
+    Operator overloading: 1:23
