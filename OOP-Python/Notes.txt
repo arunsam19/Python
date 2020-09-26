@@ -15,7 +15,7 @@ inner class:
 inheritance:
     Method Resolution Order(MRO), Constructor in Inheritance
 Polymorphism:
-    Loose coupling, Interface, Dependancy Injection
+    Usages: Loose coupling, Interface, Dependancy Injection
 
     Types:
         Duck Typing, Operator overloading, method overloading, method overriding

@@ -14,9 +14,8 @@ class MyEditor:
 
 class Laptop:
 
-    def run(self, Editor):
+    def run(self, Editor):      #Behavior changes based on the object passed.
         Editor.execute()
-
 
 
 p = PyCharm()
